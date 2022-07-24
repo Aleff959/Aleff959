@@ -11,8 +11,8 @@
   
 <h3 align="left">Pode seguir em:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/ale.san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aleff.san/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/3b7n89uW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3b7n89uW" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ale.san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aleff.san/" height="30" width="40" /></a>
+<a href="https://discord.gg/3b7n89uW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3b7n89uW" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens que pretendo aprender:</h3>
